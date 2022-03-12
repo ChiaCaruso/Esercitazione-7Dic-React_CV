@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Esercitazione-7Dic-React_CV/static/css/main.5c6eb0bd.chunk.css",
-    "main.js": "/Esercitazione-7Dic-React_CV/static/js/main.7387c560.chunk.js",
-    "main.js.map": "/Esercitazione-7Dic-React_CV/static/js/main.7387c560.chunk.js.map",
-    "runtime-main.js": "/Esercitazione-7Dic-React_CV/static/js/runtime-main.1c5fdd64.js",
-    "runtime-main.js.map": "/Esercitazione-7Dic-React_CV/static/js/runtime-main.1c5fdd64.js.map",
-    "static/js/2.d69e3856.chunk.js": "/Esercitazione-7Dic-React_CV/static/js/2.d69e3856.chunk.js",
-    "static/js/2.d69e3856.chunk.js.map": "/Esercitazione-7Dic-React_CV/static/js/2.d69e3856.chunk.js.map",
-    "static/js/3.ffedd26d.chunk.js": "/Esercitazione-7Dic-React_CV/static/js/3.ffedd26d.chunk.js",
-    "static/js/3.ffedd26d.chunk.js.map": "/Esercitazione-7Dic-React_CV/static/js/3.ffedd26d.chunk.js.map",
-    "index.html": "/Esercitazione-7Dic-React_CV/index.html",
-    "static/css/main.5c6eb0bd.chunk.css.map": "/Esercitazione-7Dic-React_CV/static/css/main.5c6eb0bd.chunk.css.map",
-    "static/js/2.d69e3856.chunk.js.LICENSE.txt": "/Esercitazione-7Dic-React_CV/static/js/2.d69e3856.chunk.js.LICENSE.txt",
-    "static/media/AvatarMaker.fbcb1a4d.svg": "/Esercitazione-7Dic-React_CV/static/media/AvatarMaker.fbcb1a4d.svg"
+    "main.css": "/coding_bootcamp-react_cv/static/css/main.5c6eb0bd.chunk.css",
+    "main.js": "/coding_bootcamp-react_cv/static/js/main.7387c560.chunk.js",
+    "main.js.map": "/coding_bootcamp-react_cv/static/js/main.7387c560.chunk.js.map",
+    "runtime-main.js": "/coding_bootcamp-react_cv/static/js/runtime-main.87e8a026.js",
+    "runtime-main.js.map": "/coding_bootcamp-react_cv/static/js/runtime-main.87e8a026.js.map",
+    "static/js/2.d69e3856.chunk.js": "/coding_bootcamp-react_cv/static/js/2.d69e3856.chunk.js",
+    "static/js/2.d69e3856.chunk.js.map": "/coding_bootcamp-react_cv/static/js/2.d69e3856.chunk.js.map",
+    "static/js/3.ffedd26d.chunk.js": "/coding_bootcamp-react_cv/static/js/3.ffedd26d.chunk.js",
+    "static/js/3.ffedd26d.chunk.js.map": "/coding_bootcamp-react_cv/static/js/3.ffedd26d.chunk.js.map",
+    "index.html": "/coding_bootcamp-react_cv/index.html",
+    "static/css/main.5c6eb0bd.chunk.css.map": "/coding_bootcamp-react_cv/static/css/main.5c6eb0bd.chunk.css.map",
+    "static/js/2.d69e3856.chunk.js.LICENSE.txt": "/coding_bootcamp-react_cv/static/js/2.d69e3856.chunk.js.LICENSE.txt",
+    "static/media/AvatarMaker.fbcb1a4d.svg": "/coding_bootcamp-react_cv/static/media/AvatarMaker.fbcb1a4d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c5fdd64.js",
+    "static/js/runtime-main.87e8a026.js",
     "static/js/2.d69e3856.chunk.js",
     "static/css/main.5c6eb0bd.chunk.css",
     "static/js/main.7387c560.chunk.js"
