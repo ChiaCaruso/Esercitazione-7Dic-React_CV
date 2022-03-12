@@ -1,7 +1,7 @@
 {
   "name": "lezione",
   "version": "0.1.0",
-  "homepage": "https://chiacaruso.github.io/Esercitazione-7Dic-React_CV/",
+  "homepage": "https://chiacaruso.github.io/coding_bootcamp-react_cv/",
   "private": true,
 
   "dependencies": {
